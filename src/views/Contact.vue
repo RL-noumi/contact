@@ -29,7 +29,7 @@
             class="font-weight-bold"
             @click="dialog = true"
           >
-            同意して送信する
+            同意して送信するあああああ
           </v-btn>
         </v-form>
       </v-col>
